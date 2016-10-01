@@ -1,25 +1,32 @@
-# Site settings
 
 title: Spitfire Tech
 email: spitfire94155@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Infosec and Android Dev Blog
-baseurl: ""
-url: "http://spit-fire.tech" # the base hostname & protocol for your site
-timezone: America/New_York
+description: Infosec and Android Dev Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: https://www.github.com/spitfire55.github.io# the GitHub repo name for your project
+github_username: spitfire55
 
-#Social settings
-RSS: false
 twitter_username: spitfire55_
-github_username:  spitfire55
-facebook_username: dale.f.lakes
-linkedin_username: dale-lakes-a548a1119
+github_username: spitfire55
+instagram_username: spitfire55
 
-#Build settings
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: blue
 
-exclude: ["README.md", "about.md"]
-
-
-# Markdown settings
+# Build settings
 markdown: kramdown
-theme: minima
+include: ['_pages', '_assets']
+exclude: ['.sass_cache', 'README.md']
+sass:
+    sass_dir: '_assets/_sass'
+permalink: '/:title/'
+
+# Defaults
+defaults:
+    -
+        scope:
+            path: "_pages"
+        values:
+            is_in_nav: true

@@ -1,23 +1,23 @@
 ---
 layout: default
+home: true
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
+<div id="home">
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+      {% for post in site.posts %}
+      {% assign words = post.content | number_of_words %}
+      {% if words <= 90 %}
+      {% assign reading-time = "1m" %}
+      {% else %}
+      {% assign reading-time = words | divided_by:200 | append:"m" %}
+      {% endif %}
+      <li class="list-item">
+        <span class="post-meta">{{ reading-time }} read ● {{ post.date | date: '%-d %B %Y' }}</span>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
