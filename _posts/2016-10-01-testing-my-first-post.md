@@ -1,6 +1,5 @@
 ---
 layout: post
-home: true
 title: Testing my First Post
 description: "This is a test to see how the material design works..."
 ---
