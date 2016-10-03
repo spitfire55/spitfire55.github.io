@@ -7,10 +7,10 @@ home: true
   <ul class="post-list">
       {% for post in site.posts %}
       {% assign words = post.content | number_of_words %}
-      {% if words <= 90 %}
+      {% if words <= 180 %}
       {% assign reading-time = "1m" %}
       {% else %}
-      {% assign reading-time = words | divided_by:200 | append:"m" %}
+      {% assign reading-time = words | divided_by:180 | append:"m" %}
       {% endif %}
       <li class="list-item">
         <span class="post-meta">{{ reading-time }} read ● {{ post.date | date: '%-d %B %Y' }}</span>
