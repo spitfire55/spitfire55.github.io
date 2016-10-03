@@ -5,8 +5,8 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 01:32:29 -0400</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 01:32:29 -0400</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2016 01:51:40 -0400</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2016 01:51:40 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -37,7 +37,7 @@ preview of those colors used in a mobile application. The first color is the pri
 for planning simple application interfaces (i.e. Contacts and ToDoist).&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.materialui.co/colors&quot;&gt;Material UI&lt;/a&gt; - Another great Material Design color palette. There is not a preview options like
 Material Palette. However, the main attractive feature of this site is that clicking on a color instantly displays its hex value,
-which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is and
+which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is an
 additional palette called Social Colors, which lists the primary colors of the most popular social media applications.
 &lt;br /&gt; &lt;br /&gt;
 As I find more resources I believe are useful, I will add them here. Happy developing!&lt;/li&gt;

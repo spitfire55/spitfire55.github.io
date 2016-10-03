@@ -26,7 +26,7 @@ preview of those colors used in a mobile application. The first color is the pri
 for planning simple application interfaces (i.e. Contacts and ToDoist).
 * [Material UI](https://www.materialui.co/colors) - Another great Material Design color palette. There is not a preview options like
 Material Palette. However, the main attractive feature of this site is that clicking on a color instantly displays its hex value,
-which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is and
+which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is an
 additional palette called Social Colors, which lists the primary colors of the most popular social media applications.
 <br />   
 As I find more resources I believe are useful, I will add them here. Happy developing!
