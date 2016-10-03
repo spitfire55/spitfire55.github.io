@@ -196,7 +196,7 @@ header, footer, section {
       box-shadow: 0px 8px 25px -7px rgba(0,0,0,0.5);
     }
     .post-meta {
-      color: $secondaryTextColor;
+      color: $accentColor;
     }
     a {
       width: 100%;
@@ -271,7 +271,7 @@ nav{
   z-index: 7;
   width: 100%;
   max-height: 60px;
-  background-color: $primaryColor;
+  background-color: $darkPrimaryColor;
   top: 0;
   transition-duration: 0.3s;
   transition-timing-function: swing;
@@ -287,7 +287,7 @@ nav{
     margin-top: 14px;
     font-weight: 300;
     font-size: 1.3rem;
-    color: white;
+    color: $textPrimaryColor;
     float: left;
   }
   ul{
@@ -388,7 +388,7 @@ nav{
 * Footer
 */
 footer {
-  background: $secondaryTextColor;
+  background: $primaryColor;
   color: $dividerColor;
   padding-top: 30px;
   padding-bottom: 20px;
@@ -409,10 +409,10 @@ footer {
         margin-right: 10px;
         float: right;
         span {
-          color: $dividerColor;
+          color: $textPrimaryColor;
         }
         &:hover span {
-          color: $textPrimaryColor;
+          color: $accentColor;
         }
       }
     }
