@@ -210,6 +210,7 @@ header, footer, section {
       font-weight: 500;
       &:hover {
         color: $secondaryTextColor;
+        text-decoration: underline;
       }
     }
     h2 {

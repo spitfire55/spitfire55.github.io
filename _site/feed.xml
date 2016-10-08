@@ -5,9 +5,96 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2016 15:40:09 -0400</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 15:40:09 -0400</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2016 16:28:12 -0400</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2016 16:28:12 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>My Favorite Visual Studio Code Shortcuts</title>
+        <description>&lt;p&gt;Below are a list of shortcuts that I tend to often use in VS Code:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Keyboard Shortcut&lt;/th&gt;
+      &lt;th&gt;Action&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + B&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Toggle side bar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + \&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Split editor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + I&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Select line&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl +  `&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Toggle integrated terminal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Click&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;View symbol definition of clicked word&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + L&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Edit all occurences of selected word simultaneously&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + C&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Open new command prompt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + V&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Toggle Markdown preview&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + P&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Show all commands&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + ]&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Go to matching bracket&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + K&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Delete line&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F3&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Find next occurence&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F9&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Toggle Breakpoint&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F5&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Continue / Pause&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F11&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Step Into&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F10&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Step Over&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Sat, 08 Oct 2016 00:00:00 -0400</pubDate>
+        <link>/My-Favorite-Visual-Studio-Code-Shortcuts/</link>
+        <guid isPermaLink="true">/My-Favorite-Visual-Studio-Code-Shortcuts/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Material Design Color Resources</title>
@@ -46,12 +133,6 @@ As I find more resources that I believe are useful, I will add them here. Happy 
         <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
         <link>/Material-Design-Color-Resources/</link>
         <guid isPermaLink="true">/Material-Design-Color-Resources/</guid>
-        
-        <category>Android,</category>
-        
-        <category>Material</category>
-        
-        <category>Design</category>
         
         
       </item>
