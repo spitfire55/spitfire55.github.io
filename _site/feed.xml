@@ -5,8 +5,8 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 08:57:41 -0400</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 08:57:41 -0400</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2016 15:40:09 -0400</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2016 15:40:09 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -40,12 +40,18 @@ Material Palette. However, the main attractive feature of this site is that clic
 which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is an
 additional palette called Social Colors, which lists the primary colors of the most popular social media applications.
 &lt;br /&gt; &lt;br /&gt;
-As I find more resources I believe are useful, I will add them here. Happy developing!&lt;/li&gt;
+As I find more resources that I believe are useful, I will add them here. Happy developing!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
         <link>/Material-Design-Color-Resources/</link>
         <guid isPermaLink="true">/Material-Design-Color-Resources/</guid>
+        
+        <category>Android,</category>
+        
+        <category>Material</category>
+        
+        <category>Design</category>
         
         
       </item>

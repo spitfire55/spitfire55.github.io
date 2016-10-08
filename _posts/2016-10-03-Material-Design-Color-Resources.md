@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Material Design Color Resources
+tags: Android, Material Design
 ---
 
 So as I began experimenting with different color combinations for this website (which started off as a pretty obnoxious sky blue color),
@@ -29,4 +30,4 @@ Material Palette. However, the main attractive feature of this site is that clic
 which enables developers to quickly copy and paste the respective hex value into their app or CSS file. Another cool feature is an
 additional palette called Social Colors, which lists the primary colors of the most popular social media applications.
 <br />   
-As I find more resources I believe are useful, I will add them here. Happy developing!
+As I find more resources that I believe are useful, I will add them here. Happy developing!
