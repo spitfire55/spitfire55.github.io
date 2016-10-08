@@ -5,12 +5,12 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2016 16:28:12 -0400</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 16:28:12 -0400</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2016 16:29:12 -0400</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2016 16:29:12 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>My Favorite Visual Studio Code Shortcuts</title>
+        <title>Visual Studio Code Shortcuts</title>
         <description>&lt;p&gt;Below are a list of shortcuts that I tend to often use in VS Code:&lt;/p&gt;
 
 &lt;table&gt;

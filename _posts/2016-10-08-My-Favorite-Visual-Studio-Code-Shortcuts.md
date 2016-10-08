@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favorite Visual Studio Code Shortcuts
+title: Visual Studio Code Shortcuts
 description: "An ever-growing list of my favorite VS Code shortcuts."
 ---
 
