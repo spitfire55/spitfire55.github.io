@@ -5,9 +5,140 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2016 16:43:41 -0400</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 16:43:41 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2016 09:22:08 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2016 09:22:08 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Android Studio Shortcuts</title>
+        <description>&lt;p&gt;Below are a list of shortcuts that I tend to often use in Android Studio:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Keyboard Shortcut&lt;/th&gt;
+      &lt;th&gt;Action&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F2, Shift + F2&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Next error, Previous error&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Alt + Right/Left&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Switch to right/left tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + O&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;List overwriteable methods of superclass to prepopulate&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Y&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Delete line&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + D&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Duplicate line&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + U&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Super method&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Q&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Quick documentation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + B&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Declaration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Alt + B&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Implementation(s)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Slash&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Insert single-line comment&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + Slash&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Insert block (multi-line) comment&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + V&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Paste from history&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + F, Ctrl + L&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Find command, Move to next occurence&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + H&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Type hierarchy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + H&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Method hierarchy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Alt + H&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Call hierarchy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Alt + L&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Reformat code&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Alt + O&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Optimize imports&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Alt + F8&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Evaluate expression (quick check the logic/output of a chunk of code)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Shift + F10&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Run&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + F5&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Re-Run&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Shift + F9&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Debug&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + F8&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;View breakpoints&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F8&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Step Over&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F7&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Step Into&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + F2&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Stop&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you want to view the entire list of predefined shortcuts in Android Studio or define your own, you can navigate to the keymap by going to File-&amp;gt;Settings-&amp;gt;Keymap.&lt;/p&gt;
+
+&lt;p&gt;Next post will be a comparison between Visual Studio Code and Sublime Text, and why I chose VS Code as my daily code editor.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 12 Oct 2016 00:00:00 -0400</pubDate>
+        <link>/Android-Studio-Shortcuts/</link>
+        <guid isPermaLink="true">/Android-Studio-Shortcuts/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Visual Studio Code Shortcuts</title>
@@ -88,6 +219,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;p&gt;My next post will probably be a comparison of Sublime Text and Visual Studio Code, and why I ultimately settled with VS Code. Happy developing!&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 08 Oct 2016 00:00:00 -0400</pubDate>
         <link>/My-Favorite-Visual-Studio-Code-Shortcuts/</link>
@@ -133,21 +266,6 @@ As I find more resources that I believe are useful, I will add them here. Happy 
         <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
         <link>/Material-Design-Color-Resources/</link>
         <guid isPermaLink="true">/Material-Design-Color-Resources/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Testing my First Post</title>
-        <description>&lt;p&gt;First, here is some code:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-        <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
-        <link>/testing-my-first-post/</link>
-        <guid isPermaLink="true">/testing-my-first-post/</guid>
         
         
       </item>
