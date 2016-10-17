@@ -1,7 +1,14 @@
 ---
 layout: post
-title: Six Reasons Why VS Code is Better Than Sublime Text Editor
+title: VS Code vs Sublime Text
+description: Here are six reasons why I decided to make VS Code my daily code editor
 ---
+
+<div id="thumbs">
+    <a id="Sublime Image" href="#"><img src="../_assets/images/sublime.jpeg" alt=""/></a>
+    <a id="VS Code Image" href="#"><img src="../_assets/images/vs_code.png" alt=""/></a>
+    <span class="stretch"></span>
+</div>
 
 For the past few years, I have been actively programming for both school and my own personal projects. As I searched for a text editor that satisfied my visual and practical needs, I knew a few key components were absolutely necessary for me to be happy using the environment daily:
 
@@ -9,8 +16,6 @@ For the past few years, I have been actively programming for both school and my 
 2. **Comprehensive Shortcuts** : I love keyboard shortcuts. Being able to quickly move around the page, modify text, and find things without having to leave the keyboard makes life so much easier. Most environments allow you to customize shortcuts, but that can be a lot of work and not all features are availabe in every environment (i.e. simultaneously modifying the same word at once). So a predefined list typically maps the shortcuts to an optimal arrangement of keys based on the features, and is why I look for a good list of shortcuts and features already predefined when I try new text editors.
 3. **Theming** : Some people really like making their text and background a blueish color. Others look for neon colors. I tend to like a greyish-reddish color scheme. A rustic red color for text complemented with other earthy colors on a clay colored background has a nice, warm feel to it. Being able to choose from or import themes is also a necessary feature for me.
 4. **Speed** : Slow startups and not being able to type at full speed are life or death for a text editor. I would rather use notepad++ if it means I can type as fast as I want and not have to correct every few words because the editor lagged and overwrote a previous word. If there is a noticeable lag, I'm not even going to consider using the editor.
-
-![SUBLIME TEXT IMG](../_assets/images/sublime.jpeg ) ![VS CODE IMG](../_assets/images/vs_code.png)
 
 So, with these in mind, after using everything from Atom to Vi, I found that VS Code and Sublime Text were my two favorite editors (with Vim as another solid candidate when resources are limited). Atom tended to lag a lot, to the point where I would just revert back to Sublime or Vim after an hour of giving it another chance.
 

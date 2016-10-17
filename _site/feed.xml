@@ -5,13 +5,19 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Oct 2016 11:38:33 -0400</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 11:38:33 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 11:52:38 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 11:52:38 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Six Reasons Why VS Code is Better Than Sublime Text Editor</title>
-        <description>&lt;p&gt;For the past few years, I have been actively programming for both school and my own personal projects. As I searched for a text editor that satisfied my visual and practical needs, I knew a few key components were absolutely necessary for me to be happy using the environment daily:&lt;/p&gt;
+        <title>VS Code vs Sublime Text</title>
+        <description>&lt;div id=&quot;thumbs&quot;&gt;
+    &lt;a id=&quot;Sublime Image&quot; href=&quot;#&quot;&gt;&lt;img src=&quot;../_assets/images/sublime.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a id=&quot;VS Code Image&quot; href=&quot;#&quot;&gt;&lt;img src=&quot;../_assets/images/vs_code.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;span class=&quot;stretch&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For the past few years, I have been actively programming for both school and my own personal projects. As I searched for a text editor that satisfied my visual and practical needs, I knew a few key components were absolutely necessary for me to be happy using the environment daily:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt; : I can’t stand looking at a mostly white screen for long periods of time. I use Flux or other similar screen reddening software on almost every device I own so that my eyes are less strained at night. Dark mode is a must.&lt;/li&gt;
@@ -19,8 +25,6 @@
   &lt;li&gt;&lt;strong&gt;Theming&lt;/strong&gt; : Some people really like making their text and background a blueish color. Others look for neon colors. I tend to like a greyish-reddish color scheme. A rustic red color for text complemented with other earthy colors on a clay colored background has a nice, warm feel to it. Being able to choose from or import themes is also a necessary feature for me.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; : Slow startups and not being able to type at full speed are life or death for a text editor. I would rather use notepad++ if it means I can type as fast as I want and not have to correct every few words because the editor lagged and overwrote a previous word. If there is a noticeable lag, I’m not even going to consider using the editor.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;../_assets/images/sublime.jpeg&quot; alt=&quot;SUBLIME TEXT IMG&quot; /&gt; &lt;img src=&quot;../_assets/images/vs_code.png&quot; alt=&quot;VS CODE IMG&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, with these in mind, after using everything from Atom to Vi, I found that VS Code and Sublime Text were my two favorite editors (with Vim as another solid candidate when resources are limited). Atom tended to lag a lot, to the point where I would just revert back to Sublime or Vim after an hour of giving it another chance.&lt;/p&gt;
 
