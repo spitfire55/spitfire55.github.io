@@ -10,7 +10,7 @@ For the past few years, I have been actively programming for both school and my 
 3. **Theming** : Some people really like making their text and background a blueish color. Others look for neon colors. I tend to like a greyish-reddish color scheme. A rustic red color for text complemented with other earthy colors on a clay colored background has a nice, warm feel to it. Being able to choose from or import themes is also a necessary feature for me.
 4. **Speed** : Slow startups and not being able to type at full speed are life or death for a text editor. I would rather use notepad++ if it means I can type as fast as I want and not have to correct every few words because the editor lagged and overwrote a previous word. If there is a noticeable lag, I'm not even going to consider using the editor.
 
-![SUBLIME TEXT IMG](spit-fire.tech/_assets/images/sublime.jpeg ) ![VS CODE IMG](spit-fire.tech/_assets/images/vs_code.png)
+![SUBLIME TEXT IMG](../_assets/images/sublime.jpeg ) ![VS CODE IMG](../_assets/images/vs_code.png)
 
 So, with these in mind, after using everything from Atom to Vi, I found that VS Code and Sublime Text were my two favorite editors (with Vim as another solid candidate when resources are limited). Atom tended to lag a lot, to the point where I would just revert back to Sublime or Vim after an hour of giving it another chance.
 
