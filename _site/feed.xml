@@ -5,8 +5,8 @@
     <description>Infosec and Android Dev Blog</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Oct 2016 11:24:50 -0400</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 11:24:50 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 11:32:37 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 11:32:37 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -20,7 +20,7 @@
   &lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; : Slow startups and not being able to type at full speed are life or death for a text editor. I would rather use notepad++ if it means I can type as fast as I want and not have to correct every few words because the editor lagged and overwrote a previous word. If there is a noticeable lag, I’m not even going to consider using the editor.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;spitfire55.github.io/_assets/images/sublime.jpeg&quot; alt=&quot;SUBLIME TEXT IMG&quot; /&gt; &lt;img src=&quot;spitfire55.github.io/_assets/images/vs_code.png&quot; alt=&quot;VS CODE IMG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;spit-fire.tech/_assets/images/sublime.jpeg&quot; alt=&quot;SUBLIME TEXT IMG&quot; /&gt; &lt;img src=&quot;spit-fire.tech/_assets/images/vs_code.png&quot; alt=&quot;VS CODE IMG&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, with these in mind, after using everything from Atom to Vi, I found that VS Code and Sublime Text were my two favorite editors (with Vim as another solid candidate when resources are limited). Atom tended to lag a lot, to the point where I would just revert back to Sublime or Vim after an hour of giving it another chance.&lt;/p&gt;
 
