@@ -5,11 +5,13 @@ description: Here are six reasons why I decided to make VS Code my daily code ed
 ---
 
 <div id="thumbs">
-    <a id="Sublime Image" href="#"><img src="../_assets/images/sublime.jpeg" alt=""/></a>
     <a id="VS Code Image" href="#"><img src="../_assets/images/vs_code.png" alt=""/></a>
+    <a id="Sublime Image" href="#"><img src="../_assets/images/sublime.jpeg" alt=""/></a>
     <span class="stretch"></span>
 </div>
 
+***
+<br>
 For the past few years, I have been actively programming for both school and my own personal projects. As I searched for a text editor that satisfied my visual and practical needs, I knew a few key components were absolutely necessary for me to be happy using the environment daily:
 
 1. **Dark Mode** : I can't stand looking at a mostly white screen for long periods of time. I use Flux or other similar screen reddening software on almost every device I own so that my eyes are less strained at night. Dark mode is a must.
@@ -26,7 +28,7 @@ Here are six reasons, in no particular order, I find VS Code to be an overall be
 3. **Built-in Git integration** : VS Code, like Atom, has built-in Git integration. Sublime Text has a plugin that comes close, but is not as robust. The diff viewer is awesome and really easy to understand.
 4. **Performance** : Sublime Text's uses Python as its language of choice for its API, while VS Code uses Typescript/Javascript. This means that VS Code's extensions will typically be much faster than Sublime Text's plugins. According to VS Code's website, the editor's architecture is based on [Electron](https://github.com/electron/electron) to "combine web technologies such as Javascript and Node.js with the speed and flexibility of native apps." Basically, it is really fast on all platforms.
 5. **Free** : While you can use Sublime Text for free, you get prompted consistently with an annoying pop-up that asks you to pay the developers. VS Code on the other hand was made to be free. 
-6. **Easy updates**: VS Code and extensions are easily updated. A banner appears at the top of the editor to update the actual editor, while a small notification at the bottom right of the extensions icon shows how many extensions can be updated. Quicky, easy, and not in your face like the Sublime Text pop-ups. 
+6. **Easy updates** : VS Code and extensions are easily updated. A banner appears at the top of the editor to update the actual editor, while a small notification at the bottom right of the extensions icon shows how many extensions can be updated. Quicky, easy, and not in your face like the Sublime Text pop-ups. 
 
 I know those reasons might not be super-convincing, since Sublime has each of these features in some shape or form. Both are great editors and, as I stated earlier, are my top two favorite editors (besides Vim). I encourage everyone who hasn't at least tried VS Code to give it a shot. I think you will like it :) . 
 
