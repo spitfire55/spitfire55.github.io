@@ -4,5 +4,4 @@ _site
 .DS_Store
 Gemfile.lock
 feed.xml
-*.gem
-_drafts
+*.gem 
