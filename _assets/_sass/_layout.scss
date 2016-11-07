@@ -631,7 +631,7 @@ footer {
     zoom: 1;
 }
 
-.vid_iframe {
+#vid_iframe {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 30px;
@@ -639,7 +639,7 @@ footer {
   overflow: hidden;
 }
 
-.vid_iframe iframe {
+#vid_iframe iframe {
   display: block;
   position: absolute;
   top: 0;
