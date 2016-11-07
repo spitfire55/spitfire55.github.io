@@ -10,5 +10,5 @@ Here is one of his videos talking with a guy looking for some advice on creating
 
 
 <div class="vid_iframe">
-    <iframe src="https://www.youtube.com/embed/HwXsFPZp3fQ"></iframe>
+    <iframe src="https://www.youtube.com/embed/HwXsFPZp3fQ" allowfullscreen></iframe>
 </div>
