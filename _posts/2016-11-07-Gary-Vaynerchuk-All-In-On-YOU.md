@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gary Vaynerchuk All in on YOU
+title: Gary Vaynerchuk - Advice to a Young Man
 description: I'm a big fan of Gary's content. Here is one of his many solid YouTube clips.
 ---
 
