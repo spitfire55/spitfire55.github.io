@@ -630,6 +630,24 @@ footer {
     *display: inline;
     zoom: 1;
 }
+
+.vid_iframe {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 10%;
+  height: 0;
+  overflow: hidden;
+}
+
+.vid_iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 20%;
+  margin: 0 auto;
+  width: 60%;
+  height: 60%
+}
+    
 .stretch {
     width: 100vw;
     display: inline-block;
