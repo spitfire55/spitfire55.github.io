@@ -25,7 +25,7 @@ Below are a list of shortcuts that I tend to often use in VS Code:
 `F11` | Step Into
 `F10` | Step Over
 
-My next post will probably be a comparison of Sublime Text and Visual Studio Code, and why I ultimately settled with VS Code. Happy developing!
+My next post will probably be a comparison of Sublime Text and Visual Studio Code, and why I ultimately settled with VS Code. Happy coding!
 
  
 

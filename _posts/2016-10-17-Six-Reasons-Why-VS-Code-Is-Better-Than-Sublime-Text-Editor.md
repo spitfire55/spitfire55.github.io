@@ -30,6 +30,4 @@ Here are six reasons, in no particular order, I find VS Code to be an overall be
 5. **Free** : While you can use Sublime Text for free, you get prompted consistently with an annoying pop-up that asks you to pay the developers. VS Code on the other hand was made to be free. 
 6. **Easy updates** : VS Code and extensions are easily updated. A banner appears at the top of the editor to update the actual editor, while a small notification at the bottom right of the extensions icon shows how many extensions can be updated. Quicky, easy, and not in your face like the Sublime Text pop-ups. 
 
-I know those reasons might not be super-convincing, since Sublime has each of these features in some shape or form. Both are great editors and, as I stated earlier, are my top two favorite editors (besides Vim). I encourage everyone who hasn't at least tried VS Code to give it a shot. I think you will like it :) . 
-
-Happy developing!
+I know those reasons might not be super-convincing, since Sublime has each of these features in some shape or form. Both are great editors and, as I stated earlier, are my top two favorite editors (besides Vim). I encourage everyone who hasn't at least tried VS Code to give it a shot. I think you will like it :) . Happy coding!

@@ -37,7 +37,7 @@ Below are a list of shortcuts that I tend to often use in Android Studio:
 
 If you want to view the entire list of predefined shortcuts in Android Studio or define your own, you can navigate to the keymap by going to File->Settings->Keymap.
 
-Next post will be a comparison between Visual Studio Code and Sublime Text, and why I chose VS Code as my daily code editor.
+Next post will be a comparison between Visual Studio Code and Sublime Text, and why I chose VS Code as my daily code editor. Happy coding!
 
 
 
