@@ -35,8 +35,9 @@ However, there is even a simpler solution that uses negative indices. When I fir
 With this in mind, I kept reading some other solutions. I came across the following:
 
 {% highlight python %}  
-def rot(l, d):  
-    return l[-d:] + l[:-d]  
+def rot(arr, dist): 
+# l is array and d is shift distance 
+    return arr[-dist:] + arr[:-dist]  
 {% endhighlight %}  
 
 All of that code above was simplified down to a single line. What this code essentially does is take the first x values, where x is the difference between the total length of the array and the desired shift distance, and prepends those to the final y values, where y is the shift distance. This simple, elegant solution will definitely be used in the future when I need to shift values in an array.
