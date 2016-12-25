@@ -36,7 +36,6 @@ With this in mind, I kept reading some other solutions. I came across the follow
 
 {% highlight python %}  
 def rot(arr, dist): 
-# l is array and d is shift distance 
     return arr[-dist:] + arr[:-dist]  
 {% endhighlight %}  
 
