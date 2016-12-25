@@ -15,6 +15,7 @@ instagram_username: spitfire55
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: blue
+highlighter: pygments
 
 # Build settings
 markdown: kramdown
