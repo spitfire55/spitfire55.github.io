@@ -39,6 +39,6 @@ def rot(arr, dist):
     return arr[-dist:] + arr[:-dist]  
 {% endhighlight %}  
 
-All of that code above was simplified down to a single line. What this code essentially does is take the first x values, where x is the difference between the total length of the array and the desired shift distance, and prepends those to the final y values, where y is the shift distance. This simple, elegant solution will definitely be used in the future when I need to shift values in an array.
+All of that code above was simplified down to a single line. What this code essentially does is take the final x values, where x is the difference between the total length of the array and the desired shift distance, and prepends those to the first y values, where y is the shift distance. This simple, elegant solution will definitely be used in the future when I need to shift values in an array.
 
 Merry Christmas, and happy coding!
