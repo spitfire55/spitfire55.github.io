@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Cool Trick for Shifting Array Values
-description: Advent of Code helped me discover a cool way to wrap arrays
+title: Rotating Arrays in Python
+description: Advent of Code helped me discover a cool way to shift arrays
 ---
 
 So during my time trying to solve [Advent of Code]("https://www.adventofcode.com/2016") problems (specifically, Day 8), I came across a cool trick on the [AoC subreddit]("https://www.reddit.com/r/adventofcode/comments/5h52ro/2016_day_8_solutions/") that makes it very easy to wrap arrays. Lets say you have the arrays
