@@ -18,5 +18,5 @@ permalink: /readinglist/
 ## Leadership/Emotional Intelligence
 
 [AskGaryvee: One Entrepreneur's Take on Leadership, Social Media, and Awareness](https://www.amazon.com/AskGaryVee-Entrepreneurs-Leadership-Social-Self-Awareness/dp/0062273124/) - September   
-[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/) - October 
+[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/) - October  
 [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/) - November
