@@ -4,7 +4,7 @@ title: 2017 Reading List
 permalink: /readinglist/
 ---
 
-## Cybersecurity/Programming  
+## Cybersecurity and Programming  
 
 [The Rootkit Arsenal](https://www.amazon.com/Rootkit-Arsenal-Escape-Evasion-Corners/dp/144962636X/) - January   
 [Shellcoder's Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X/) - June  
@@ -15,7 +15,7 @@ Write Great Code [Vol. 1](https://www.amazon.com/Write-Great-Code-Understanding-
 [The Art of Assembly Language](https://www.amazon.com/Art-Assembly-Language-Randall-Hyde/dp/1593272073) - April  
 [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/) - August  
 
-## Leadership/Emotional Intelligence
+## Leadership and Emotional Intelligence
 
 [AskGaryvee: One Entrepreneur's Take on Leadership, Social Media, and Awareness](https://www.amazon.com/AskGaryVee-Entrepreneurs-Leadership-Social-Self-Awareness/dp/0062273124/) - September   
 [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/) - October  
