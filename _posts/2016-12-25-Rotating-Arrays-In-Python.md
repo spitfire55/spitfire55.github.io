@@ -5,27 +5,21 @@ description: Advent of Code helped me discover a cool way to shift arrays
 ---
 
 So during my time trying to solve [Advent of Code]("https://www.adventofcode.com/2016") problems (specifically, Day 8), I came across a cool trick on the [AoC subreddit]("https://www.reddit.com/r/adventofcode/comments/5h52ro/2016_day_8_solutions/") that makes it very easy to wrap arrays. Lets say you have the arrays
-<pre>
-<center>1, 2, 3, 4, 5</center>
-</pre>
+<pre><center>1, 2, 3, 4, 5</center></pre>
 and you want to shift the values to the left by three so that the end result is
-<pre>
-<center>3, 4, 5, 1, 2</center>
-</pre>
+<pre><center>3, 4, 5, 1, 2</center></pre>
 Trying to do this with a for loop might look something like this:  
-{% highlight python %}     
-myArray = [1,2,3,4,5]  
+{% highlight python %}myArray = [1,2,3,4,5]  
 shift = 3  
 myArrayLen = len(myArray)  
 tempArray = [0 for x in range(myArrayLen)]  
 for x in range(myArrayLen):  
     tempArray[(x+shift) % myArrayLen] = myArray[x]  
 myArray = tempArray  
-return myArray  
-{% endhighlight %}
+return myArray{% endhighlight %}
 
 A even simpler way would be list comprehension:  
-{% highlight python %}    
+{% highlight python %}
 myArray = [1,2,3,4,5]  
 return [myArray[(x - shift) % len(myArray)] for x in range(len(myArray))]  
 {% endhighlight %}  
@@ -34,8 +28,7 @@ However, there is even a simpler solution that uses negative indices. When I fir
 
 With this in mind, I kept reading some other solutions. I came across the following:
 
-{% highlight python %}  
-def rot(arr, dist): 
+{% highlight python %}def rot(arr, dist): 
     return arr[-dist:] + arr[:-dist]  
 {% endhighlight %}  
 

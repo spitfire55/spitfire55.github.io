@@ -232,7 +232,7 @@ header, footer, section {
   top: -60px;
 }
 
-@mixin navToggle($left, $top) {
+@mixin navToggleLeft($left, $top) {
   position: absolute;
   width: 30px;
   height: 60px;
@@ -317,7 +317,7 @@ nav{
 }
 
 .navToggle{
-  @include navToggle(25px, 3px);
+  @include navToggleLeft(25px, 3px);
   &:hover{
     cursor: pointer;
   }

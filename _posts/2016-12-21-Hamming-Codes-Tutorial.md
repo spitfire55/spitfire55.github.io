@@ -16,20 +16,14 @@ description: A brief introduction to using parity bits for memory errors
 ___Note: The pattern includes the parity bit itself___
 
 3. Each bit checked reflects what value the parity bit should hold. For example, if the data sequence is 1010, and parity bits are placed at indices 1, 2, and 4, then the entire sequence of bits would be the following:  
-<pre>
-<center><b>1 0</b> 1 <b>1</b> 0 1 0</center>
-<center><b>1 2</b> 3 <b>4</b> 5 6 7</center>
-</pre>
+<pre><center><b>1 0</b> 1 <b>1</b> 0 1 0</center><center><b>1 2</b> 3 <b>4</b> 5 6 7</center></pre>
 
 Parity bit 1 checks the data bits at index 3 and 5. Since the sum of these two data bits is an odd value, the first parity bit should be 1. For parity bit 2, we check bits 3 and 6. The sum of these two bits is 2, an even value, so we set parity bit 2 to 0. Finally, parity bit 4 will be checking indices 5 through 7. The sum of these three bits is odd, so the 4<sup>th</sup> parity bit will be set to 1. 
 
 This is easy to implement, but how does it detect errors? Hamming codes have the unique property of being able to detect and fix one-bit errors. This is because one data bit affects at least two parity bits. If one data bit is flipped due to noise on the data bus, then the parity bits can be checked to see which bit is affected.  
 
 For example, here is a stream of data with parity bits placed in 2<sup>n</sup> indices.  
-<pre>
-<center>0 1 0 0 0 1 0 0 1 1  0  1 </center>
-<center>1 2 3 4 5 6 7 8 9 10 11 12</center>
-</pre>
+<pre><center>0 1 0 0 0 1 0 0 1 1  0  1 </center><center>1 2 3 4 5 6 7 8 9 10 11 12</center></pre>
 
 If we check the parity bits for accuracy (I'll skip the process above and just ask you trust me), we will see that three parity bits are incorrect: 1, 2, and 8. We know that parity bit 1 checks data bits 3, 5, 7, 9, and 11. Parity bit 2 checks data bits 3, 6, 7, 10, and 11. Parity bit 8 checks data bits 9, 10, 11, and 12. Of these three lists of data bits, the single common index is 11. This means the data bit at index 11 needs to be flipped back to a 1 in order for all the parity values to be correct.  
 
