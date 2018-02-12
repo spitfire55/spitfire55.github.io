@@ -4,9 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Dale Lakes. I am a student at The United States Military Academy at West Point. I am a senior student in computer science.
-After graduation, I will be a commissioned second lieutenant in the United States Army and join the Cyber branch.
+Hello! Welcome to my blog. My name is Dale Lakes, also known as spitf(i/y)re. I hope that this blog is useful for you in some way.
 
-My interests include information security, specifically memory and disk forensics. I also enjoy reverse engineering, binary exploitation, and cryptography.
+My goal is to provide various tips, tricks, tutorials, or resources for developers and information security professionals. I am passionate about the Android ecosystem and security research. My [reading list](../readinglist) reflects this along with the content of my posts.
 
-I also enjoy the Android operating system and the new Daydream virtual reality platform. As soon as I got my first Nexus phone, I became a "root junky", flashing custom ROMs and other customizable features. I now am beginning to learn how to develop my own Android apps, and hope to publish my first app on the Play Store by the end of 2016.
+You can reach me on social media 

@@ -3,7 +3,7 @@ title: Spitfire Tech
 email: spitfire94155@gmail.com
 description: Infosec and Android Dev Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 github_repo: https://www.github.com/spitfire55.github.io# the GitHub repo name for your project
 github_username: spitfire55
 google_analytics: UA-85436923-1
@@ -25,6 +25,10 @@ sass:
     sass_dir: '_assets/_sass'
 permalink: '/:title/'
 
+#Plugins
+plguins:
+    - jekyll-lunr-js-search
+     
 # Defaults
 defaults:
     -

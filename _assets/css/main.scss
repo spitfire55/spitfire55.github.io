@@ -7,8 +7,8 @@
 * Variables
 */
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic);
-@import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 $base-font-family: Roboto, Helvetica Neue, sans-serif;
 $code-font: Inconsolata, monospace;
@@ -16,8 +16,8 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 $spacing-unit:     30px;
-$darkPrimaryColor:   #027CCA    ;
-$primaryColor:       #1C66A4    ;
+$darkPrimaryColor:   #003C75;
+$primaryColor:       #1C66A4;
 $lightPrimaryColor:  #F9F8FB;
 $textPrimaryColor:   darken(#FFFFFF, 3.5%);
 $accentColor:        #f44336;
