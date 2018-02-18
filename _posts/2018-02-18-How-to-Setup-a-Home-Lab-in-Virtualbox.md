@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to Setup a Home Lab for Cyber Security and Software Development Projects in Virtualbox"
-description: Learn how to use Virtualbox to create your own hacking or development environment without affecting your primary OS 
+title: "How to Setup a Home Lab in Virtualbox"
+description: Learn how to use Virtualbox to create your own cybersecurity or development environment without affecting your primary OS 
 ---
 
 ## Introduction
