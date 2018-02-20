@@ -17,6 +17,7 @@ permalink: /readinglist/
 ## Leadership, Culture, and Emotional Intelligence
 
 [x] [The Innovators](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/) - December '17/January  
-[ ] [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/) - January/February  
+[ ] [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/) - January - March
 [ ] [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/) - January-March  
-[ ] [Norse Mythology](https://www.amazon.com/Norse-Mythology-Neil-Gaiman/dp/039360909X/) - February/March  
+[x] [Norse Mythology](https://www.amazon.com/Norse-Mythology-Neil-Gaiman/dp/039360909X/) - February/March  
+[ ] [Elon Musk](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/) - February/March
