@@ -138,12 +138,14 @@ header, footer, section {
   0% {
     opacity: 0;
     -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
 
   100% {
     opacity: 1;
     -webkit-transform: none;
+    -moz-transform: none;
     transform: none;
   }
 }
@@ -152,12 +154,14 @@ header, footer, section {
   0% {
     opacity: 0;
     -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
 
   100% {
     opacity: 1;
     -webkit-transform: none;
+    -moz-transform: none;
     transform: none;
   }
 }
