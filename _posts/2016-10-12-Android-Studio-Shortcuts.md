@@ -2,6 +2,7 @@
 layout: post
 title: Android Studio Shortcuts
 description: To complement my previous post regarding VS Code, here are some helpful Android Studio shortcuts.
+categories: Android, Programming
 ---
 
 Below are a list of shortcuts that I tend to often use in Android Studio:

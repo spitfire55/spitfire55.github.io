@@ -7,5 +7,5 @@ Site theme is based on my love for Google's Material Design. Originally from [ra
 
 ## License
 
-[MIT License](./LICENSE.txt)
+[MIT License](LICENSE.md)
 

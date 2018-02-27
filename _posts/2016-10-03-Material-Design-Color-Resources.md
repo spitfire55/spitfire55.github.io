@@ -2,6 +2,7 @@
 layout: post
 title: Material Design Color Resources
 description: An assortment of colors and design principles to use in mobile and web development.
+categories: Android
 ---
 
 So as I began experimenting with different color combinations for this website (which started off as a pretty obnoxious sky blue color),

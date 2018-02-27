@@ -2,6 +2,7 @@
 layout: post
 title: Visual Studio Code Shortcuts
 description: "An ever-growing list of my favorite VS Code shortcuts."
+categories: Programming
 ---
 
 Below are a list of shortcuts that I tend to often use in VS Code:

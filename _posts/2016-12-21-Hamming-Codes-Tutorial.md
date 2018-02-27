@@ -2,6 +2,7 @@
 layout: post
 title: Hamming Codes Tutorial
 description: A brief introduction to using parity bits for memory errors
+categories: Miscellaneous
 ---
 
 [R.W. Hamming]("https://en.wikipedia.org/wiki/Richard_Hamming") designed a very simple but effective error-correcting code to detect one-bit and two-bit errors, and fix one-bit errors. Hamming codes are limited to certain kinds of data that has low error rates, such as computer memory (RAM, caches, etc.). The following is a simple explanation of how Hamming codes work.

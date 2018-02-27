@@ -2,6 +2,7 @@
 layout: post
 title: "Writing a Web Scraper with Go (Part One - Setup Environment)"
 description: This post is part one of an eight part series on how to scrape a website in Go and store specific data in Firestore. 
+categories: Programming
 ---
 
 ### Introduction

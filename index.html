@@ -1,28 +1,26 @@
 ---
-layout: default
+layout: index
 home: true
 ---
 
 <div id="home">
   <ul class="post-list">
       {% for post in site.posts %}
-      {% assign words = post.content | number_of_words %}
-      {% if words <= 180 %}
-      {% assign reading-time = "1m" %}
-      {% else %}
-      {% assign reading-time = words | divided_by:180 | append:"m" %}
-      {% endif %}
-      <li class="list-item">
-        <span class="post-meta">{{ reading-time }} read - {{ post.date | date: '%-d %B %Y' }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
-        </h2>
-        {% if post.description %}
-          <h5>
-            <a class="post-link">{{post.description}}</a>
-          </h5>
-        {% endif %}
-      </li>
-    {% endfor %}
+	      {% assign words = post.content | number_of_words %}
+	      {% if words <= 180 %}
+	      {% assign reading-time = "1m" %}
+	      {% else %}
+	      {% assign reading-time = words | divided_by:180 | append:"m" %}
+	      {% endif %}
+	      <li class="posts-list">
+		      <h2>
+			      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		      </h2>
+		      {% if post.description %}
+		          <a>{{post.description}}<br></a>
+		      {% endif %}
+		      <span class="post-meta">{{ reading-time }} read - {{ post.date | date: '%-d %B %Y' }}</span>
+	      </li>
+      {% endfor %}
   </ul>
 </div>

@@ -2,6 +2,7 @@
 layout: page
 title: "OSCP/PWK Course Review and Resources"
 description: "Are you interested in pursuing the OSCP certification but don't know how to prepare or what to expect? Look no further..."
+categories: Hacking
 ---
 
 <a href="http://spitfy.re//wp-content/uploads/2017/07/offsensive-security-logo-kg-1.png"><img class="wp-image-84 size-thumbnail alignright" src="http://spitfy.re//wp-content/uploads/2017/07/offsensive-security-logo-kg-1-150x150.png" alt="" width="150" height="150" /></a>

@@ -2,11 +2,12 @@
 layout: post
 title: VS Code vs Sublime Text
 description: Here are six reasons why I decided to make VS Code my daily code editor
+categories: Programming
 ---
 
 <div id="thumbs">
-    <a id="VS Code Image" href="#"><img src="../_assets/images/vs_code.png" alt=""/></a>
-    <a id="Sublime Image" href="#"><img src="../_assets/images/sublime.jpeg" alt=""/></a>
+    <a id="VS Code Image" href="#"><img src="/assets/images/vs_code.png" alt=""/></a>
+    <a id="Sublime Image" href="#"><img src="/assets/images/sublime.jpeg" alt=""/></a>
     <span class="stretch"></span>
 </div>
 
