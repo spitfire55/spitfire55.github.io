@@ -38,9 +38,9 @@ a {
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
-  /*&:focus {
+  &:focus {
     text-decoration: underline;
-  }*/
+  }
 
   strong {
     color: inherit;

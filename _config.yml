@@ -1,25 +1,26 @@
 
 title: Spitfyre SecDev
 email: spitfire94155@gmail.com
+tagline: Cybersecurity and Programming Blog
 description: Cybersecurity and Programming Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spitfy.re" # the base hostname & protocol for your site, e.g. https://example.com
-github_repo: https://www.github.com/spitfire55.github.io# the GitHub repo name for your project
-github_username: spitfire55
+
 google_analytics: UA-85436923-1
+
 disqus:
   shortname: spitfyresecdev
+
+paginate: 5
 
 twitter_username: SpitfyreSecDev
 instagram_username: spitfyresecdev
 
 theme: jekyll-theme-hydeout
 highlighter: rouge
-
-# Build settings
 markdown: kramdown
 include: ['assets']
 exclude: ['.sass_cache', 'README.md']
-sass:
-    sass_dir: 'assets/_sass'
-permalink: '/:title/'
+
+github:
+  repo: https://github.com/spitfire55/spitfire55.github.io

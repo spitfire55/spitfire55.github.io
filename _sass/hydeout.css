@@ -30,7 +30,8 @@ main, article, section {
 a {
   color: #268bd2;
   text-decoration: none; }
-  a:hover,
+  a:hover, a:focus {
+    text-decoration: underline; }
   a strong {
     color: inherit; }
 
@@ -719,18 +720,15 @@ h2.post-title, h2.page-title {
   list-style: none; }
   .posts-list h3 {
     margin-top: 0; }
-  .posts-list li {
-    list-style-type: none; }
-    .posts-list li small {
-      font-size: 75%;
-      color: #999;
-      white-space: nowrap; }
-    .posts-list li a:hover, .posts-list li a:focus {
-      color: #268bd2;
-      text-underline: none;
-      text-decoration: none; }
-      .posts-list li a:hover small, .posts-list li a:focus small {
-        color: inherit; }
+  .posts-list li small {
+    font-size: 75%;
+    color: #999;
+    white-space: nowrap; }
+  .posts-list li a:hover {
+    color: #268bd2;
+    text-decoration: none; }
+    .posts-list li a:hover small {
+      color: inherit; }
 
 button.disqus-load {
   margin-top: 1em; }

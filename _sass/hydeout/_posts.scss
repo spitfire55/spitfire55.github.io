@@ -70,16 +70,14 @@ h2.post-title, h2.page-title {
   }
 
   li {
-	list-style-type: none;
     small {
       font-size: 75%;
       color: #999;
       white-space: nowrap;
     }
 
-    a:hover, a:focus {
+    a:hover {
       color: $link-color;
-      text-underline: none;
 	  text-decoration: none;
 
       small {

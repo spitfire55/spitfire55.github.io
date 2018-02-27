@@ -14,10 +14,10 @@ home: true
 	      {% endif %}
 	      <li class="posts-list">
 		      <h2>
-			      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		      </h2>
 		      {% if post.description %}
-		          <a>{{post.description}}<br></a>
+			  <p>{{post.description}}<br></p>
 		      {% endif %}
 		      <span class="post-meta">{{ reading-time }} read - {{ post.date | date: '%-d %B %Y' }}</span>
 	      </li>
