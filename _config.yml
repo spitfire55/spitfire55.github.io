@@ -13,8 +13,8 @@ disqus:
 
 paginate: 5
 
-twitter_username: SpitfyreSecDev
-instagram_username: spitfyresecdev
+twitter: https://www.twitter.com/SpitfyreSecDev
+instagram: https://www.instagram.com/spitfyresecdev
 
 theme: jekyll-theme-hydeout
 highlighter: rouge
