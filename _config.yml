@@ -16,7 +16,6 @@ paginate: 5
 twitter: https://www.twitter.com/SpitfyreSecDev
 instagram: https://www.instagram.com/spitfyresecdev
 
-theme: jekyll-theme-hydeout
 highlighter: rouge
 markdown: kramdown
 include: ['assets']
