@@ -528,7 +528,7 @@ body {
   Mobile view
 ----------------------------------------------------------- */
 #sidebar header ~ *, #sidebar header ~ nav, #sidebar p.lead {
-  display: none; }
+  display: block; }
 
 .container > header {
   background: transparent;
