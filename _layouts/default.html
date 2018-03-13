@@ -6,6 +6,8 @@
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
 
     {% include sidebar.html %}
+    
+    {% include fb-messenger.html %}
 
     <main class="container">
       {{ content }}
