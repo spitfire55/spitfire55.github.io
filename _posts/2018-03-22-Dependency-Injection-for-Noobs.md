@@ -15,5 +15,5 @@ This video presentation by Daniel Lew, a software engineer at Trello, is the mos
 programming design pattern.
 
 <div id="vid_iframe">
-    <iframe src="https://www.youtube.com/watch?v=B7rY_t3ghjI" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/B7rY_t3ghjI" allowfullscreen></iframe>
 </div>
