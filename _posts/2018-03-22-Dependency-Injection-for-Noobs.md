@@ -2,7 +2,7 @@
 layout: post
 title: Dependency Injection for Noobs
 description: I've spent the past few days trying to wrap my head around dependency injection. Here is the best resource I've found
-categories: Android, Programming
+categories: [Android, Programming]
 ---
 
 I've spent the past few days trying to wrap my head around dependency injection. What is it? Why should I care? Nearly every
