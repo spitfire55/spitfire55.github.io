@@ -21,5 +21,5 @@ easy-to-follow visual examples with the corresponding Java code to explain new f
 RecyclerViews.
 
 <div id="vid_iframe">
-    <iframe src="https://www.youtube.com/embed/watch?v=TS_J0Qw4zl0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/TS_J0Qw4zl0" allowfullscreen></iframe>
 </div>
