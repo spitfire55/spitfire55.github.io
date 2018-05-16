@@ -23,3 +23,5 @@ exclude: ['.sass_cache', 'README.md']
 
 github:
   repo: https://github.com/spitfire55/spitfire55.github.io
+
+theme: jekyll-theme-midnight
